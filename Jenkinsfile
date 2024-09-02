@@ -4,7 +4,7 @@ pipeline {
 
   stages {
 
-    stage('P1') {
+    stage('master') {
 
       steps {
 
