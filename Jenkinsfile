@@ -4,11 +4,11 @@ pipeline {
 
   stages {
 
-    stage('master') {
+    stage('xx') {
 
       steps {
 
-        sh 'uname -n'
+        sh 'echo xxx'
 
       }
 
